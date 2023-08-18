@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-nitin-tech&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-nitin-tech" /> </p>
 
-- 🌱 I’m currently learning **Firebase, AI/ML, Block-chain**
+- 🌱 I’m currently learning **Backend, AI/ML, Block-chain**
 
-- 👯 I’m looking to collaborate on **Android Project**
+- 👯 I’m looking to collaborate on **Application Development Project**
 
 - 🤝 I’m looking for help with **AI/ML**
 

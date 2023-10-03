@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-nitin-tech&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-nitin-tech" /> </p>
 
-- 🌱 I’m currently learning **Backend, AI/ML, Block-chain**
+- 🌱 I’m currently learning **Backend**
 
-- 👯 I’m looking to collaborate on **Application Development Project**
+- 👯 I’m looking to collaborate on **Mobile Application Development Project**
 
 - 🤝 I’m looking for help with **AI/ML**
 
-- 💬 Ask me about **C++, Android**
+- 💬 Ask me about **C++, Android, App, Flutter**
 
 - 📫 How to reach me **nitinkd2811@gmail.com**
 

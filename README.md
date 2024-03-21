@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Mobile Application Development Project**
 
-- 🤝 I’m looking for help with **AI/ML**
+- 🤝 I’m looking for help with **Backend and Hybrid Devleopment**
 
-- 💬 Ask me about **C++, Android, App, Flutter**
+- 💬 Ask me about **C++, Android, Flutter**
 
 - 📫 How to reach me **nitinkd2811@gmail.com**
 
